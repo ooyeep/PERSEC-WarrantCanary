@@ -1,4 +1,7 @@
-# Statement 2024.3
+# The Statement is Deprecated.
+
+No data leak. All communications stay safe.
+Account deactivated.
 
 - I have **never** handed over my encryption or authentication keys to anyone. (since Feb.2023)
 - I have **never** deleted any content or provided any non-public data at the request of law enforcement agencies. (since Feb.2023)
